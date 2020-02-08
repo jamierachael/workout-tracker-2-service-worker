@@ -1,6 +1,13 @@
 {
   "name": "Workout-tracker",
   "short_name": "Workout-tracker",
+  "icons": [
+    {
+      "src": "images/logo.svg",
+      "sizes": "292x292",
+      "type": "image/SVG"
+    }
+  ],
   "theme_color": "#5793fd",
   "background_color": "#f2f8ff",
   "start_url": "/",
