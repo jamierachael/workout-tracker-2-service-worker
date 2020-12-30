@@ -1,11 +1,11 @@
-# workout-tracker-2-service-worker
-## Homework 14 workout-tracker-2-service-worker
+# Workout-Tracker-2-Using-Service-Worker
 
-* ['Workout-Tracker-2-Service-Worker - Git Hub'](https://github.com/jamierachael/workout-tracker-2-service-worker)
-* ['Workout-Tracker-2-Service-Worker - Git Hub IO'](https://jamierachael.github.io/workout-tracker-2-service-worker/)
-* ['Workout-Tracker-2-Service-Worker - Demo Video'](https://drive.google.com/file/d/1Vh6ZDSei3ioBDL_XpzT2VJCAR8AWEm0u/view)
-* ['Workout-Tracker-2-Service-Worker - Heroku Deployment'](https://floating-sierra-59457.herokuapp.com/)
 
+* [Workout-Tracker-2-Using-Service-Worker - Git Hub](https://github.com/jamierachael/workout-tracker-2-service-worker)
+* [Workout-Tracker-2-Using-Service-Worker - Demo Video](https://drive.google.com/file/d/1Vh6ZDSei3ioBDL_XpzT2VJCAR8AWEm0u/view)
+* [Workout-Tracker-2-Using-Service-Worker - Heroku Deployment](https://floating-sierra-59457.herokuapp.com/)
+
+![Workout-Tracker-2-Using-Service-Worker - Demo](demo/gif.gif)
 
 ### Summary
 * This project emphasizes the use of PWA using npm compression, manifest.webmanifest on an existing app that uses MongoDB, mongoose, morgan, and express, to dynamically update a fitness tracking app
@@ -56,50 +56,53 @@
 > Open in browser
 
 ### Features: 
+
 * File directory: 
 
-├── Models
-│   ├── index.js
-│   └── workout.js
-│ 
-├── Public
-|   └── Images 
-|         └── Logo.svg
-|         └── Audit-screenshots
-|
-│   └── api.js
-│   └── exercise.html
-|   └── index.html
-|   └── index.js
-|   └── stats.html
-|   └── stats.js
-|   └── style.css
-|   └── workout-style.css
-|   └── workout.js
-|   └── manifest.webmanifest
-|   └── Service-worker.js
-|
-├── Seeders
-│   ├── seed.js
-│
-├── Routes
-│   └── html-routes.js
-│   └── api-routes.js
-│ 
-├── node_modules
-│ 
-├── package.json
-│
-├── server.js
+* Models:
+    * index.js
+    * workout.js
+
+* Public: 
+
+   * Images 
+        * Logo.svg
+        * Audit-screenshots
+
+    * api.js
+    * exercise.html
+    * index.html
+    * index.js
+    * stats.html
+    * stats.js
+    * style.css
+    * workout-style.css
+    * workout.js
+    * manifest.webmanifest
+    * Service-worker.js
+
+* Seeders: 
+    * seed.js
+
+* Routes: 
+    * html-routes.js
+    * api-routes.js
+
+* node_modules
+
+* package.json
+
+* server.js
 
 
-### Code Validation 
-    * These use W3C Code Validators for HTML, CSS and Javascript
-        * Format: ![Validator-HTML](N/A)
-        * Format: ![Validator-CSS](N/A)
-        * Format: ![Validator-JS](N/A)
-        
+## Authors
 
+* **Jamie Rachael Morris** - *Initial work* - [Git Hub Profile](https://github.com/jamierachael)
+* UNH Project Design
+
+## Acknowledgments
+
+* Hat tip to UNH for providing project parameters and code examples
 
 
 
